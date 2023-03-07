@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearth",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {},
+	"Props": {
+		"details": [
+			{
+				"path": "Moon_Body/Props_NOM_Scroll (1)",
+				"position": {
+					"x": 13.4191179,
+					"y": -46.2632637,
+					"z": 184.690109
+				},
+				"rotation": {
+					"x": 20.5872173,
+					"y": 99.5654144,
+					"z": 104.999336
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {}
+}

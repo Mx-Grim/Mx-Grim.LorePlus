@@ -1,0 +1,15 @@
+{
+	"Props": {
+		"details": [
+			{
+				"path": "Moon_Body/Props_NOM_Scroll (1)/",
+                "position": {
+                    "x": 11.38483,
+                    "y": -67.807,
+                    "z": -4.4533
+                  },
+                  "alignToNormal": false
+            }
+		]
+	}
+}

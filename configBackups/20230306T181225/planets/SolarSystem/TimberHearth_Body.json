@@ -1,0 +1,300 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearth",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {},
+	"Props": {
+		"details": [
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 16.5390968,
+					"y": -47.95429,
+					"z": 184.006409
+				},
+				"rotation": {
+					"x": 327.574768,
+					"y": 85.38348,
+					"z": 107.308357
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 16.9365959,
+					"y": -46.9541473,
+					"z": 184.230286
+				},
+				"rotation": {
+					"x": 335.991455,
+					"y": 89.13862,
+					"z": 105.321037
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 18.3917656,
+					"y": -44.1617737,
+					"z": 184.7771
+				},
+				"rotation": {
+					"x": 24.5912285,
+					"y": 101.76104,
+					"z": 104.7519
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 16.4567986,
+					"y": -48.64898,
+					"z": 183.832642
+				},
+				"rotation": {
+					"x": 322.051178,
+					"y": 83.14977,
+					"z": 108.605835
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 12.9609652,
+					"y": -47.4364166,
+					"z": 184.426926
+				},
+				"rotation": {
+					"x": 336.8238,
+					"y": 87.80796,
+					"z": 105.89801
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 11.3108187,
+					"y": -53.99106,
+					"z": 183.02861
+				},
+				"rotation": {
+					"x": 309.710419,
+					"y": 351.670624,
+					"z": 282.931335
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 12.1339464,
+					"y": -51.7280426,
+					"z": 183.314346
+				},
+				"rotation": {
+					"x": 312.983917,
+					"y": 72.9617538,
+					"z": 116.071114
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 10.921216,
+					"y": -42.62986,
+					"z": 186.025513
+				},
+				"rotation": {
+					"x": 42.45733,
+					"y": 111.42588,
+					"z": 105.540878
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 20.7904148,
+					"y": -43.09536,
+					"z": 184.777267
+				},
+				"rotation": {
+					"x": 70.4460144,
+					"y": 236.2601,
+					"z": 228.420181
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 16.06429,
+					"y": -41.2398071,
+					"z": 185.98735
+				},
+				"rotation": {
+					"x": 21.991745,
+					"y": 349.3776,
+					"z": 203.024
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 14.7440224,
+					"y": -45.63327,
+					"z": 184.748764
+				},
+				"rotation": {
+					"x": 51.8706436,
+					"y": 113.355095,
+					"z": 113.059364
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 14.2194176,
+					"y": -46.8693848,
+					"z": 184.47963
+				},
+				"rotation": {
+					"x": 11.3218937,
+					"y": 97.04905,
+					"z": 104.305275
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 12.8972292,
+					"y": -46.1742172,
+					"z": 184.75032
+				},
+				"rotation": {
+					"x": 18.7815933,
+					"y": 99.0546951,
+					"z": 104.827293
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 15.6571007,
+					"y": -45.365387,
+					"z": 184.738022
+				},
+				"rotation": {
+					"x": 74.0415955,
+					"y": 155.348511,
+					"z": 151.444962
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 14.3288612,
+					"y": -46.1567039,
+					"z": 184.649811
+				},
+				"rotation": {
+					"x": 33.0681648,
+					"y": 103.543663,
+					"z": 106.783478
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 14.8741188,
+					"y": -48.5831223,
+					"z": 183.984024
+				},
+				"rotation": {
+					"x": 306.703857,
+					"y": 74.43784,
+					"z": 114.894753
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 16.1505775,
+					"y": -45.26356,
+					"z": 184.721664
+				},
+				"rotation": {
+					"x": 74.54869,
+					"y": 210.657013,
+					"z": 204.9811
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 15.0273628,
+					"y": -44.7800446,
+					"z": 184.933121
+				},
+				"rotation": {
+					"x": 66.27945,
+					"y": 127.728569,
+					"z": 125.237465
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 15.956707,
+					"y": -45.4185524,
+					"z": 184.724869
+				},
+				"rotation": {
+					"x": 73.94237,
+					"y": 154.696014,
+					"z": 150.817764
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 15.5005684,
+					"y": -45.6410866,
+					"z": 184.68248
+				},
+				"rotation": {
+					"x": 70.12233,
+					"y": 138.355438,
+					"z": 135.255569
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 13.912076,
+					"y": -43.80662,
+					"z": 185.252823
+				},
+				"rotation": {
+					"x": 57.1618423,
+					"y": 115.909813,
+					"z": 115.366722
+				}
+			},
+			{
+				"path": "Moon_Body/Props_NOM_Scroll (1)",
+				"position": {
+					"x": 13.4191179,
+					"y": -46.2632637,
+					"z": 184.690109
+				},
+				"rotation": {
+					"x": 20.5872173,
+					"y": 99.5654144,
+					"z": 104.999336
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {}
+}

@@ -1,0 +1,62 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearth",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {},
+	"Props": {
+		"details": [
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_QuantumFragment/Interactables_QuantumFragment/Surface_QRock_Shard/Prefab_NOM_Whiteboard (2)",
+				"position": {
+					"x": 17.04715,
+					"y": -49.79998,
+					"z": 183.4686
+				},
+				"rotation": {
+					"x": 285.4413,
+					"y": 352.8885,
+					"z": 192.1823
+				},
+				"removeChildren": ["ArcSocket/Prefab_NOM_Scroll"]
+			}
+		],
+		"translatorText": [
+			{
+				"position": {"x": 28.22974, "y": -50.99392, "z": 183.3299}, 
+				"normal": {"x": 0, "y": 90, "z": 0}, 
+				"xmlFile": "planets/Text/TestWall2.xml",
+				"type": "wall",
+				"seed": 10,
+				"arcInfo":[
+					{"position": {"x": 0, "y": 0}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": -3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 3, "y": 2.75}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": -3, "y": 2.75}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 0, "y":  1}, "zRotation": 90, "type": "adult"},
+					{"position": {"x": 0, "y": 2}, "zRotation": 360, "type": "adult"}
+				]
+			},
+			{
+				"position": {"x": 15.28485, "y": -43.67052, "z": 185.177}, 
+				"xmlFile": "planets/Text/TestWall2.xml",
+				"type": "scroll",
+				"seed": 10,
+				"arcInfo":[
+					{"position": {"x": 0, "y": 0}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": -3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 3, "y": 2.75}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": -3, "y": 2.75}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 0, "y":  1}, "zRotation": 90, "type": "adult"},
+					{"position": {"x": 0, "y": 2}, "zRotation": 360, "type": "adult"}
+				]
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}

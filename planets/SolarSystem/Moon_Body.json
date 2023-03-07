@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberMoon",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {},
+	"Props": {
+		"details": [
+			{
+				"path": "Moon_Body/Props_NOM_Scroll (1)/",
+				"position": {
+					"x": -8.634974,
+					"y": -67.36291,
+					"z": 5.63572025
+				},
+				"rotation": {
+					"x": 9.475343,
+					"y": 113.223419,
+					"z": 179.377411
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}
