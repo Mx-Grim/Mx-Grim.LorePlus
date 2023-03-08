@@ -1,0 +1,43 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+	<TextBlock>
+		<ID>1</ID>
+		<LocationA />
+		<Text>CYCAD: Ore = or?  This ore that?  (No, not happy with this one.)</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>2</ID>
+		<ParentID>1</ParentID>
+		<LocationB />
+		<Text>CYCAD: Wait, rock, rock bottom?  Hitting rock bottom at the base of the mine? (Promising!)</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>3</ID>
+		<ParentID>2</ParentID>
+		<LocationA />
+		<Text>CYCAD: Mining, mines, all mine?  This mine's all mine? (Nope, when will I ever use this?)</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>4</ID>
+		<ParentID>3</ParentID>
+		<LocationB />
+		<Text>CYCAD: Samples, core samples, core?  Plan a-core-dingly? (This one's a winner!)</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>5</ID>
+		<ParentID>4</ParentID>
+		<LocationB />
+		<Text>CYCAD: Geology, geological, geo, geo- (This is going nowhere fast.)</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>6</ID>
+		<ParentID>5</ParentID>
+		<LocationB />
+		<Text>CYCAD: Rock = stock?  Stockpile of rockpiles?  (No, rubbish.)</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>7</ID>
+		<ParentID>6</ParentID>
+		<LocationA />
+		<Text>CYCAD: I miss regular homework.</Text>
+	</TextBlock>
+</NomaiObject>

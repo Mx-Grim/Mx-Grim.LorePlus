@@ -6,19 +6,22 @@
 	},
 	"Orbit": {},
 	"Props": {
-		"details": [
+		"translatorText": [
 			{
-				"path": "Moon_Body/Props_NOM_Scroll (1)/",
-				"position": {
-					"x": -8.634974,
-					"y": -67.36291,
-					"z": 5.63572025
-				},
-				"rotation": {
-					"x": 9.475343,
-					"y": 113.223419,
-					"z": 179.377411
-				}
+				"position": {"x": -7.163899, "y": -67.6853, "z": -3.108025},
+				"normal": {"x": -0.1024928, "y": -0.993362, "z": -0.05222277} ,
+				"xmlFile": "planets/Text/TestWall2.xml",
+				"type": "wall",
+				"seed": 10,
+				"arcInfo":[
+					{"position": {"x": 0, "y": 0}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": -3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 3, "y": 2.75}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": -3, "y": 2.75}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 0, "y":  1}, "zRotation": 90, "type": "adult"},
+					{"position": {"x": 0, "y": 2}, "zRotation": 360, "type": "adult"}
+				]
 			}
 		]
 	},

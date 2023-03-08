@@ -24,8 +24,8 @@
 		],
 		"translatorText": [
 			{
-				"position": {"x": 28.22974, "y": -50.99392, "z": 183.3299}, 
-				"normal": {"x": 0, "y": 90, "z": 0}, 
+				"position": {"x": 13.09686, "y": -45.77742, "z": 184.8352},
+				"normal": {"x": 0.07103619, "y": -0.2419839, "z": 0.9676767}, 
 				"xmlFile": "planets/Text/TestWall2.xml",
 				"type": "wall",
 				"seed": 10,
@@ -52,6 +52,22 @@
 					{"position": {"x": -3, "y": 2.75}, "zRotation": 0, "type": "adult"},
 					{"position": {"x": 0, "y":  1}, "zRotation": 90, "type": "adult"},
 					{"position": {"x": 0, "y": 2}, "zRotation": 360, "type": "adult"}
+				]
+			},
+			{
+				"position": {"x": -49.425, "y": 140.6883, "z": -158.1661}, 
+				"rotation": {"x": 46.4764, "y": 182.9881, "z": 54.4722},
+				"xmlFile": "planets/Text/MiningSite.xml",
+				"type": "scroll",
+				"seed": 1,
+				"arcInfo":[
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"}
 				]
 			}
 		]
