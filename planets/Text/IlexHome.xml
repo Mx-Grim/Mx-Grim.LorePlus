@@ -1,0 +1,171 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+	<TextBlock>
+		<ID>1</ID>
+		<Text>-krs-zkt-</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>2</ID>
+		<ParentID>1</ParentID>
+		<Text>ILEX: -ink I fixed the recorder? Yeah, look, it's turning!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>3</ID>
+		<ParentID>2</ParentID>
+		<Text>IDAEA: See, I knew you you could do it.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>4</ID>
+		<ParentID>3</ParentID>
+		<Text>ILEX: But you were watching the whole time, weren't you afraid I was doing it wrong?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>5</ID>
+		<ParentID>4</ParentID>
+		<Text>IDAEA: Oh... Ilex, no, no, I'm so sorry if I gave you that impression.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>6</ID>
+		<ParentID>5</ParentID>
+		<Text>IDAEA: I just want to be sure you're safe. Our technology uses a lot of energy; it's dangerous to work on it alone.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>7</ID>
+		<ParentID>6</ParentID>
+		<Text>ILEX: Is that why so many of us work in twos and threes?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>8</ID>
+		<ParentID>7</ParentID>
+		<Text>IDAEA: That's right. Oeno, Coleus and Cycad, Mallow and Avens, Ramie and Pye-</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>9</ID>
+		<ParentID>8</ParentID>
+		<Text>ILEX: You and mom?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>10</ID>
+		<ParentID>9</ParentID>
+		<Text>...</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>11</ID>
+		<ParentID>10</ParentID>
+		<Text>ILEX: Dad?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>12</ID>
+		<ParentID>11</ParentID>
+		<Text>IDAEA: Yes. Me and your mom.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>13</ID>
+		<ParentID>12</ParentID>
+		<Text>ILEX: What was she like?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>14</ID>
+		<ParentID>13</ParentID>
+		<Text>...</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>15</ID>
+		<ParentID>14</ParentID>
+		<Text>ILEX: Please? You never talk about her.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>16</ID>
+		<ParentID>15</ParentID>
+		<Text>IDAEA: She, um... *sigh*. She was as brilliant as she was beautiful. I don't think I've ever met anyone smarter than her.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>17</ID>
+		<ParentID>16</ParentID>
+		<Text>IDAEA: I'd never s- *sob* -ah sorry, I just-  </Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>18</ID>
+		<ParentID>17</ParentID>
+		<Text>ILEX: Are you okay?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>19</ID>
+		<ParentID>18</ParentID>
+		<Text>IDAEA: *sniff* yes, I'm okay. I'm okay.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>20</ID>
+		<ParentID>19</ParentID>
+		<Text>IDAEA: I'd never seen her happier than when she first saw you. She held you so gently, as if you'd break if she breathed too sharply.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>21</ID>
+		<ParentID>20</ParentID>
+		<Text>IDAEA: It- *sniff* It's funny, she was usually such a daredevil.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>22</ID>
+		<ParentID>21</ParentID>
+		<Text>ILEX: Wait, <![CDATA[<i>really?!</i>]]> And she liked <![CDATA[<i>you?!</i>]]></Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>23</ID>
+		<ParentID>22</ParentID>
+		<Text>IDAEA: Pfhaha, yes, I know, right? I can't believe she put up with me!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>24</ID>
+		<ParentID>23</ParentID>
+		<Text>ILEX: You're such a worrier!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>25</ID>
+		<ParentID>24</ParentID>
+		<Text>IDAEA: I know! I know. But she got me to take risks, and be a little more adventurous. I like to think I calmed her down in return.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>26</ID>
+		<ParentID>25</ParentID>
+		<Text>ILEX: She sounds fun!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>27</ID>
+		<ParentID>26</ParentID>
+		<Text>IDAEA: She <![CDATA[<i>was</i>]]> fun, every day with her was better than the last. You know, you're just like her in all the best ways. Even if you <![CDATA[<i>do</i>]]> worry like me!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>28</ID>
+		<ParentID>27</ParentID>
+		<Text>IDAEA: Ah, come here, give your dad a hug. <![CDATA[<i>Nghaahhh</i>]]> there's my little monster!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>29</ID>
+		<ParentID>28</ParentID>
+		<Text>ILEX: Daaaaaaad! I'm not that little...</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>30</ID>
+		<ParentID>29</ParentID>
+		<Text>IDAEA: I love you more than everything in the world, I hope you know that. I would pull the planets out of their orbits just to keep you safe.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>31</ID>
+		<ParentID>30</ParentID>
+		<Text>ILEX: I love you too, dad. But please leave the planets where they are.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>32</ID>
+		<ParentID>31</ParentID>
+		<Text>IDAEA: Haha. Oh, we'll be okay, Ilex.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>33</ID>
+		<ParentID>32</ParentID>
+		<Text>...</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>34</ID>
+		<ParentID>33</ParentID>
+		<Text>IDAEA: We'll be okay.</Text>
+	</TextBlock>
+</NomaiObject>

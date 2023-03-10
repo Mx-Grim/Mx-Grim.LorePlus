@@ -26,17 +26,17 @@
 			{
 				"position": {"x": 13.09686, "y": -45.77742, "z": 184.8352},
 				"normal": {"x": 0.07103619, "y": -0.2419839, "z": 0.9676767}, 
-				"xmlFile": "planets/Text/TestWall2.xml",
+				"xmlFile": "planets/Text/TestWall.xml",
 				"type": "wall",
 				"seed": 10,
 				"arcInfo":[
-					{"position": {"x": 0, "y": 0}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": -3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 3, "y": 2.75}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": -3, "y": 2.75}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 0, "y":  1}, "zRotation": 90, "type": "adult"},
-					{"position": {"x": 0, "y": 2}, "zRotation": 360, "type": "adult"}
+					{"position": {"x": 0, "y": 0}, "zRotation": 340, "type": "child"},
+					{"position": {"x": 0.31270, "y":  1.2733}, "zRotation": 140, "type": "stranger"},
+					{"position": {"x": -0.2968, "y":  1.7341}, "zRotation": 100, "type": "child"},
+					{"position": {"x": -0.7676, "y": 1.4533}, "zRotation": 160, "type": "adult"},
+					{"position": {"x": -1.0676, "y": 2.086}, "zRotation": 80, "type": "adult"},
+					{"position": {"x": -0.85, "y":  2.1}, "zRotation": 320, "type": "adult"},
+					{"position": {"x": 0.9988, "y": 1.7824}, "zRotation": 240, "type": "child"}
 				]
 			},
 			{
@@ -69,6 +69,12 @@
 					{"keepAutoPlacement": true, "type": "adult"},
 					{"keepAutoPlacement": true, "type": "adult"}
 				]
+			},
+			{
+				"position": {"x": 16.307, "y": -46.41638, "z": 184.4204},
+				"rotation": {"x": 342.2187, "y": 90.28124, "z": 104.6913},
+				"xmlFile": "planets/Text/IlexHome.xml",
+				"type": "recorder"
 			}
 		]
 	},
