@@ -6,126 +6,136 @@
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>IDAEA: I don't feel like writing. I'm just going to record this one. I think Yarrow can forgive that, given the circumstances.</Text>
+		<Text>IDAEA: I'm too tired to write. I'm just going to record this one. I think Yarrow can forgive that, given the circumstances.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text></Text>
+		<Text>IDAEA: The station failed. We've checked over and over again for equipment failure, but it seems that the mistake happened before we laid even the first scaffold.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
 		<ParentID>3</ParentID>
-		<Text></Text>
+		<Text>IDAEA: We built the station on rotten foundations. The fundamental science just doesn't scale up as we predicted. It's almost laughable.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text></Text>
+		<Text>IDAEA: Here I sit, staring into the face of this beautiful star, from a distance of mere <![CDATA[<i>meters</i>]]>, and <![CDATA[<i>still</i>]]> I'm not so blinded as this project's planners were.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>6</ID>
 		<ParentID>5</ParentID>
-		<Text></Text>
+		<Text>IDAEA: Blinded by the prospect of discovery. Blinded by the promise of catharsis.  Blissfully ignorant of ethics and responsibility.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>7</ID>
 		<ParentID>6</ParentID>
-		<Text></Text>
+		<Text>IDAEA: And now, in our haste to lunge forward into uncertainty, we have built a hulking, useless <![CDATA[<i>monument</i>]]> to that failure.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>8</ID>
 		<ParentID>7</ParentID>
-		<Text></Text>
+		<Text>IDAEA: This station will serve as a constant reminder that we ran too far, too fast, and thought ourselves so infallible that we didn't watch where we were going.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>9</ID>
 		<ParentID>8</ParentID>
-		<Text></Text>
+		<Text>IDAEA: The very light that illuminates our way will bear the flicker of its shadow.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>10</ID>
 		<ParentID>9</ParentID>
-		<Text></Text>
+		<Text>...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>11</ID>
 		<ParentID>10</ParentID>
-		<Text></Text>
+		<Text>IDAEA: I should be happy.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>12</ID>
 		<ParentID>11</ParentID>
-		<Text></Text>
+		<Text>IDAEA: The project has been placed on indefinite hiatus. The sun is safe from our meddling. We, in turn, are no longer at risk of causing our own extinction.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>13</ID>
 		<ParentID>12</ParentID>
-		<Text></Text>
+		<Text>IDAEA: Everything I could have asked for at the start of the project has come to pass. I ought to be celebrating.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>14</ID>
 		<ParentID>13</ParentID>
-		<Text></Text>
+		<Text>IDAEA: Instead, I can only think of how devastated Fuchsia would be.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>15</ID>
 		<ParentID>14</ParentID>
-		<Text></Text>
+		<Text>IDAEA: Of how devastated Pye is.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>16</ID>
 		<ParentID>15</ParentID>
-		<Text></Text>
+		<Text>IDAEA: When we realised what happened, she-</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>17</ID>
 		<ParentID>16</ParentID>
-		<Text></Text>
+		<Text>...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>18</ID>
 		<ParentID>17</ParentID>
-		<Text></Text>
+		<Text>IDAEA: She sounded just like her.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>19</ID>
 		<ParentID>18</ParentID>
-		<Text></Text>
+		<Text>...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>20</ID>
 		<ParentID>19</ParentID>
-		<Text></Text>
+		<Text>IDAEA: I think I only went along with this because it's what Fuchsia would have done. I can imagine her dancing down the hallway to the viewing platform. Singing as she calculates the energy transfer.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>21</ID>
 		<ParentID>20</ParentID>
-		<Text></Text>
+		<Text>IDAEA: I've clinging to a ghost, trying to swallow my morals for the approval of someone long since gone.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>22</ID>
 		<ParentID>21</ParentID>
-		<Text></Text>
+		<Text>IDAEA: I haven't been approaching the work as <![CDATA[<i>myself</i>]]>. But I can't channel her.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>23</ID>
 		<ParentID>22</ParentID>
-		<Text></Text>
+		<Text>IDAEA: She was a unique and beautiful star. And I, in comparison, have allowed rot into my foundations.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>24</ID>
 		<ParentID>23</ParentID>
-		<Text></Text>
+		<Text>IDAEA: I've been torturing myself for so long. I'm exhausted. Yarrow is right, I should rest.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>25</ID>
 		<ParentID>24</ParentID>
-		<Text></Text>
+		<Text>IDAEA: Then I can come back with a clear head, and rather than fighting with Pye, maybe... Maybe we could be friends.</Text>
 	</TextBlock>
 	<TextBlock>
-		<ID></ID>
-		<ParentID></ParentID>
-		<Text></Text>
+		<ID>26</ID>
+		<ParentID>25</ParentID>
+		<Text>IDAEA: Perhaps, once I let go of the past, I'll be able to understand her view of the future.  Or maybe I'll convince her to stop chasing it. In the meantime, I know exactly what I want to do right now.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>27</ID>
+		<ParentID>26</ParentID>
+		<Text>IDAEA: I'm going to go home. Mitis will hold me and I'll remind him how much I adore him. Then I'll scoop up Ilex and hug him tight.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>28</ID>
+		<ParentID>27</ParentID>
+		<Text>IDAEA: And I'll spend the night with the two people I love most in the world.</Text>
 	</TextBlock>
 </NomaiObject>

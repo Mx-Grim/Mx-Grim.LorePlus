@@ -31,12 +31,12 @@
 	<TextBlock>
 		<ID>7</ID>
 		<ParentID>6</ParentID>
-		<Text>ILEX: Is that why so many of us work in twos and threes?</Text>
+		<Text>ILEX: Is that why so many of us work in groups?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>8</ID>
 		<ParentID>7</ParentID>
-		<Text>IDAEA: That's right. Oeno, Coleus and Cycad, Mallow and Avens, Ramie and Pye-</Text>
+		<Text>IDAEA: That's right. Phlox and Daz, Ramie and Pye-</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>9</ID>
@@ -76,22 +76,22 @@
 	<TextBlock>
 		<ID>16</ID>
 		<ParentID>15</ParentID>
-		<Text>IDAEA: She, um... *sigh*. She was as brilliant as she was beautiful. I don't think I've ever met anyone smarter than her.</Text>
+		<Text>IDAEA: She, um... -sigh- She was as brilliant as she was beautiful. I don't think I've ever met anyone smarter than her.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>17</ID>
 		<ParentID>16</ParentID>
-		<Text>IDAEA: I'd never s- *sob* -ah sorry, I just-  </Text>
+		<Text>IDAEA: I'd never s- ... s-sorry, I just-  </Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>18</ID>
 		<ParentID>17</ParentID>
-		<Text>ILEX: Are you okay?</Text>
+		<Text>ILEX: Dad? What's wrong, are you okay?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>19</ID>
 		<ParentID>18</ParentID>
-		<Text>IDAEA: *sniff* yes, I'm okay. I'm okay.</Text>
+		<Text>IDAEA: ... yes, I'm okay. I'm okay. I just miss her very much.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>20</ID>
@@ -101,7 +101,7 @@
 	<TextBlock>
 		<ID>21</ID>
 		<ParentID>20</ParentID>
-		<Text>IDAEA: It- *sniff* It's funny, she was usually such a daredevil.</Text>
+		<Text>IDAEA: It's funny, she was usually such a daredevil.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>22</ID>
@@ -131,7 +131,7 @@
 	<TextBlock>
 		<ID>27</ID>
 		<ParentID>26</ParentID>
-		<Text>IDAEA: She <![CDATA[<i>was</i>]]> fun, every day with her was better than the last. You know, you're just like her in all the best ways. Even if you <![CDATA[<i>do</i>]]> worry like me!</Text>
+		<Text>IDAEA: She <![CDATA[<i>was</i>]]> fun. Every day with her was better than the last. You know, you're just like her in all the best ways. Even if you <![CDATA[<i>do</i>]]> worry like me!</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>28</ID>
@@ -156,16 +156,21 @@
 	<TextBlock>
 		<ID>32</ID>
 		<ParentID>31</ParentID>
-		<Text>IDAEA: Haha. Oh, we'll be okay, Ilex.</Text>
+		<Text>IDAEA: Haha. I'll do my best.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>33</ID>
 		<ParentID>32</ParentID>
-		<Text>...</Text>
+		<Text>IDAEA: We'll be okay, Ilex.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>34</ID>
 		<ParentID>33</ParentID>
+		<Text>...</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>35</ID>
+		<ParentID>34</ParentID>
 		<Text>IDAEA: We'll be okay.</Text>
 	</TextBlock>
 </NomaiObject>
