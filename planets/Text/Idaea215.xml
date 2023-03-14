@@ -6,7 +6,7 @@
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>IDAEA: I'm too tired to write. I'm just going to record this one. I think Yarrow can forgive that, given the circumstances.</Text>
+		<Text>IDAEA: I'm too tired to write. I'm just going to record this one.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
@@ -96,17 +96,17 @@
 	<TextBlock>
 		<ID>20</ID>
 		<ParentID>19</ParentID>
-		<Text>IDAEA: I think I only went along with this because it's what Fuchsia would have done. I can imagine her dancing down the hallway to the viewing platform. Singing as she calculates the energy transfer.</Text>
+		<Text>IDAEA: Despite my reservations, I know that Fuchsia would have leapt at this project. I can imagine her dancing down the hallway to the viewing platform. Humming as she calculates the energy transfer.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>21</ID>
 		<ParentID>20</ParentID>
-		<Text>IDAEA: I've clinging to a ghost, trying to swallow my morals for the approval of someone long since gone.</Text>
+		<Text>IDAEA: I've been clinging to a ghost, trying to swallow my morals for the approval of someone long since gone.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>22</ID>
 		<ParentID>21</ParentID>
-		<Text>IDAEA: I haven't been approaching the work as <![CDATA[<i>myself</i>]]>. But I can't channel her.</Text>
+		<Text>IDAEA: I haven't been approaching the work as <![CDATA[<i>myself</i>]]>. But I can't channel her, either.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>23</ID>
@@ -131,7 +131,7 @@
 	<TextBlock>
 		<ID>27</ID>
 		<ParentID>26</ParentID>
-		<Text>IDAEA: I'm going to go home. Mitis will hold me and I'll remind him how much I adore him. Then I'll scoop up Ilex and hug him tight.</Text>
+		<Text>IDAEA: I'm going home. Mitis will hold me and I'll remind him how much I adore him. Then I'll scoop up Ilex and hug him tight.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>28</ID>

@@ -1,0 +1,77 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearth",
+	"Props": {
+		"details": [
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_QuantumFragment/Interactables_QuantumFragment/Surface_QRock_Shard/Prefab_NOM_Whiteboard (2)",
+				"position": {
+					"x": 17.04715,
+					"y": -49.79998,
+					"z": 183.4686
+				},
+				"rotation": {
+					"x": 285.4413,
+					"y": 352.8885,
+					"z": 192.1823
+				},
+				"removeChildren": ["ArcSocket/Prefab_NOM_Scroll"]
+			}
+		],
+		"translatorText": [
+			{
+				"position": {"x": 13.09686, "y": -45.77742, "z": 184.8352},
+				"normal": {"x": 0.07103619, "y": -0.2419839, "z": 0.9676767}, 
+				"xmlFile": "planets/Text/TestWall.xml",
+				"type": "wall",
+				"seed": 10,
+				"arcInfo":[
+					{"position": {"x": 0, "y": 0}, "zRotation": 340, "type": "child"},
+					{"position": {"x": 0.31270, "y":  1.2733}, "zRotation": 140, "type": "stranger"},
+					{"position": {"x": -0.2968, "y":  1.7341}, "zRotation": 100, "type": "child"},
+					{"position": {"x": -0.7676, "y": 1.4533}, "zRotation": 160, "type": "adult"},
+					{"position": {"x": -1.0676, "y": 2.086}, "zRotation": 80, "type": "adult"},
+					{"position": {"x": -0.85, "y":  2.1}, "zRotation": 320, "type": "adult"},
+					{"position": {"x": 0.9988, "y": 1.7824}, "zRotation": 240, "type": "child"}
+				]
+			},
+			{
+				"position": {"x": 15.28485, "y": -43.67052, "z": 185.177}, 
+				"xmlFile": "planets/Text/TestWall2.xml",
+				"type": "scroll",
+				"seed": 10,
+				"arcInfo":[
+					{"position": {"x": 0, "y": 0}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": -3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 3, "y": 2.75}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": -3, "y": 2.75}, "zRotation": 0, "type": "adult"},
+					{"position": {"x": 0, "y":  1}, "zRotation": 90, "type": "adult"},
+					{"position": {"x": 0, "y": 2}, "zRotation": 360, "type": "adult"}
+				]
+			},
+			{
+				"position": {"x": -49.425, "y": 140.6883, "z": -158.1661}, 
+				"rotation": {"x": 46.4764, "y": 182.9881, "z": 54.4722},
+				"xmlFile": "planets/Text/MiningSite.xml",
+				"type": "scroll",
+				"seed": 1,
+				"arcInfo":[
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"},
+					{"keepAutoPlacement": true, "type": "adult"}
+				]
+			},
+			{
+				"position": {"x": 16.307, "y": -46.41638, "z": 184.4204},
+				"rotation": {"x": 342.2187, "y": 90.28124, "z": 104.6913},
+				"xmlFile": "planets/Text/IlexHome.xml",
+				"type": "recorder"
+			}
+		]
+	}
+}
