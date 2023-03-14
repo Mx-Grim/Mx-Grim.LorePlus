@@ -1,0 +1,79 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberMoon",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {},
+	"Props": {
+		"translatorText": [
+			{
+				"arcInfo": [
+					{
+						"position": {},
+						"type": "adult"
+					},
+					{
+						"position": {
+							"x": 3.0,
+							"y": -1.1
+						},
+						"type": "adult"
+					},
+					{
+						"position": {
+							"x": -3.0,
+							"y": -1.1
+						},
+						"type": "adult"
+					},
+					{
+						"position": {
+							"x": 3.0,
+							"y": 2.75
+						},
+						"type": "adult"
+					},
+					{
+						"position": {
+							"x": -3.0,
+							"y": 2.75
+						},
+						"type": "adult"
+					},
+					{
+						"position": {
+							"y": 1.0
+						},
+						"type": "adult",
+						"zRotation": 90.0
+					},
+					{
+						"position": {
+							"y": 2.0
+						},
+						"type": "adult",
+						"zRotation": 360.0
+					}
+				],
+				"normal": {
+					"x": -0.1024928,
+					"y": -0.993362,
+					"z": -0.05222277
+				},
+				"position": {
+					"x": -7.163899,
+					"y": -67.6853,
+					"z": -3.108025
+				},
+				"seed": 10,
+				"type": "wall",
+				"location": "unspecified",
+				"xmlFile": "planets/Text/TestWall2.xml"
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}

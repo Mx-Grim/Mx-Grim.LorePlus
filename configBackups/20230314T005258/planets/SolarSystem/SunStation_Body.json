@@ -8,10 +8,10 @@
 	"Props": {
 		"translatorText": [
 			{
-				"position": {"x": 92.97427, "y": -60.39138, "z": -2.595133},
-				"normal": {"x": 1, "y": 1.192093E-07, "z": 2.584579E-08},
-				"type": "recorder",
-				"xmlFile": "planets/Text/Idaea215.xml"
+				"position": {"x": 16.307, "y": -46.41638, "z": 184.4204},
+				"rotation": {"x": 342.2187, "y": 90.28124, "z": 104.6913},
+				"xmlFile": "planets/Text/Idaea215.xml",
+				"type": "recorder"
 			}
 		]
 	},

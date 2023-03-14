@@ -1,0 +1,53 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "SunStation",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {},
+	"Props": {
+		"details": [
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 92.9743,
+					"y": -53.1233978,
+					"z": 0.4962216
+				},
+				"rotation": {
+					"x": 25.90458,
+					"y": 8.542265E-06,
+					"z": 270.0
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 92.97432,
+					"y": -53.1236725,
+					"z": 0.49615103
+				},
+				"rotation": {
+					"x": 25.8971024,
+					"y": 9.490803E-06,
+					"z": 270.0
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"position": {
+					"x": 92.9743652,
+					"y": -52.52418,
+					"z": 0.6030503
+				},
+				"rotation": {
+					"x": 25.89956,
+					"y": 1.42364988E-05,
+					"z": 270.000031
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {}
+}

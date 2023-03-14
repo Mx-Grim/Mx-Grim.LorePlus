@@ -1,0 +1,224 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearth",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {},
+	"Props": {
+		"details": [
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_QuantumFragment/Interactables_QuantumFragment/Surface_QRock_Shard/Prefab_NOM_Whiteboard (2)",
+				"position": {
+					"x": 17.04715,
+					"y": -49.79998,
+					"z": 183.4686
+				},
+				"removeChildren": [
+					"ArcSocket/Prefab_NOM_Scroll"
+				],
+				"rotation": {
+					"x": 285.4413,
+					"y": 352.8885,
+					"z": 192.1823
+				}
+			}
+		],
+		"translatorText": [
+			{
+				"arcInfo": [
+					{
+						"position": {},
+						"type": "child",
+						"zRotation": 340.0
+					},
+					{
+						"position": {
+							"x": 0.3127,
+							"y": 1.2733
+						},
+						"type": "stranger",
+						"zRotation": 140.0
+					},
+					{
+						"position": {
+							"x": -0.2968,
+							"y": 1.7341
+						},
+						"type": "child",
+						"zRotation": 100.0
+					},
+					{
+						"position": {
+							"x": -0.7676,
+							"y": 1.4533
+						},
+						"type": "adult",
+						"zRotation": 160.0
+					},
+					{
+						"position": {
+							"x": -1.0676,
+							"y": 2.086
+						},
+						"type": "adult",
+						"zRotation": 80.0
+					},
+					{
+						"position": {
+							"x": -0.85,
+							"y": 2.1
+						},
+						"type": "adult",
+						"zRotation": 320.0
+					},
+					{
+						"position": {
+							"x": 0.9988,
+							"y": 1.7824
+						},
+						"type": "child",
+						"zRotation": 240.0
+					}
+				],
+				"normal": {
+					"x": 0.07103619,
+					"y": -0.2419839,
+					"z": 0.9676767
+				},
+				"position": {
+					"x": 13.09686,
+					"y": -45.77742,
+					"z": 184.8352
+				},
+				"seed": 10,
+				"type": "wall",
+				"location": "unspecified",
+				"xmlFile": "planets/Text/TestWall.xml"
+			},
+			{
+				"arcInfo": [
+					{
+						"position": {},
+						"type": "adult"
+					},
+					{
+						"position": {
+							"x": 3.0,
+							"y": -1.1
+						},
+						"type": "adult"
+					},
+					{
+						"position": {
+							"x": -3.0,
+							"y": -1.1
+						},
+						"type": "adult"
+					},
+					{
+						"position": {
+							"x": 3.0,
+							"y": 2.75
+						},
+						"type": "adult"
+					},
+					{
+						"position": {
+							"x": -3.0,
+							"y": 2.75
+						},
+						"type": "adult"
+					},
+					{
+						"position": {
+							"y": 1.0
+						},
+						"type": "adult",
+						"zRotation": 90.0
+					},
+					{
+						"position": {
+							"y": 2.0
+						},
+						"type": "adult",
+						"zRotation": 360.0
+					}
+				],
+				"position": {
+					"x": 15.28485,
+					"y": -43.67052,
+					"z": 185.177
+				},
+				"seed": 10,
+				"type": "scroll",
+				"location": "unspecified",
+				"xmlFile": "planets/Text/TestWall2.xml"
+			},
+			{
+				"arcInfo": [
+					{
+						"keepAutoPlacement": true,
+						"type": "adult"
+					},
+					{
+						"keepAutoPlacement": true,
+						"type": "adult"
+					},
+					{
+						"keepAutoPlacement": true,
+						"type": "adult"
+					},
+					{
+						"keepAutoPlacement": true,
+						"type": "adult"
+					},
+					{
+						"keepAutoPlacement": true,
+						"type": "adult"
+					},
+					{
+						"keepAutoPlacement": true,
+						"type": "adult"
+					},
+					{
+						"keepAutoPlacement": true,
+						"type": "adult"
+					}
+				],
+				"position": {
+					"x": -49.425,
+					"y": 140.6883,
+					"z": -158.1661
+				},
+				"rotation": {
+					"x": 46.4764,
+					"y": 182.9881,
+					"z": 54.4722
+				},
+				"seed": 1,
+				"type": "scroll",
+				"location": "unspecified",
+				"xmlFile": "planets/Text/MiningSite.xml"
+			},
+			{
+				"position": {
+					"x": 16.307,
+					"y": -46.41638,
+					"z": 184.4204
+				},
+				"rotation": {
+					"x": 342.2187,
+					"y": 90.28124,
+					"z": 104.6913
+				},
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Text/IlexHome.xml"
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}

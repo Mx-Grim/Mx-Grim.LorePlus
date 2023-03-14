@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "CaveTwin",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {},
+	"Props": {
+		"translatorText": [
+			{
+				"position": {"x": -8.858218, "y": -108.013, "z": -39.31557},
+                "normal": {"x": -0.6282908, "y": 0.3170623, "z": -0.7104383},
+				"xmlFile": "planets/Text/YarrowHome.xml",
+				"type": "recorder"
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}
