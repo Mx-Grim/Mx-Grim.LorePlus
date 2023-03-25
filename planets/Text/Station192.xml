@@ -1,0 +1,61 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+	<TextBlock>
+		<ID>1</ID>
+		<Text>PYE: Station log 192.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>2</ID>
+		<ParentID>1</ParentID>
+		<Text>PYE: Construction is on schedule, and all readings so far are well within our expected parameters. However, I have concerns about my colleague's state of mind.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>3</ID>
+		<ParentID>2</ParentID>
+		<Text>PYE: For a few weeks now, I've observed troubling symptoms. These include, but are not limited to, general gooiness, pleasant remarks, and contented sighing.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>4</ID>
+		<ParentID>3</ParentID>
+		<Text>PYE: He has been daydreaming frequently and I'm sad to report, <![CDATA[<i>even smiling</i>]]>. I can only conclude that he has lost his mind, and the fate of the project hangs in the balance.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>5</ID>
+		<ParentID>4</ParentID>
+		<Text>PYE: I believe this behaviour started as a result of him getting a new... <![CDATA[<color=pink>boyfriend</color>]]>.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>6</ID>
+		<ParentID>5</ParentID>
+		<Text>PYE: In fact, just saying his name brings on an attack of furious blushing! It's adorable.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>7</ID>
+		<ParentID>6</ParentID>
+		<Text>PYE: I propose a treatment plan of <![CDATA[<i>constant teasing</i>]]> and <![CDATA[<i>neverending pestering</i>]]>.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>8</ID>
+		<ParentID>7</ParentID>
+		<Text>IDAEA: There is nothing I can do to escape this, is there?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>9</ID>
+		<ParentID>8</ParentID>
+		<Text>PYE: Oh, you have no idea how right you are.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>10</ID>
+		<ParentID>2</ParentID>
+		<Text>IDAEA: More than usual? What could I have done this time?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>11</ID>
+		<ParentID>5</ParentID>
+		<Text>IDAEA: Oh. Ha ha, very funny.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>12</ID>
+		<ParentID>6</ParentID>
+		<Text>IDAEA: I am <![CDATA[<i>not</i>]]> blushing. Or adorable.</Text>
+	</TextBlock>
+</NomaiObject>

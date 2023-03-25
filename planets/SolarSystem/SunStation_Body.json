@@ -11,56 +11,29 @@
 				"position": {"x": 92.97427, "y": -60.39138, "z": -2.595133},
 				"rotation": {"x": 359.3079, "y": 357.2534, "z": 267.5309},
 				"type": "recorder",
-				"xmlFile": "planets/Text/Idaea215.xml"
+				"xmlFile": "planets/Text/Station215.xml"
 			},
 			{
 				"position": {"x": 111.3617, "y": -3.5659, "z": -0.2925},
 				"rotation": {"x": 347.0358, "y": 89.3159, "z": 348.309},
-				"xmlFile": "planets/Text/TestWall2.xml",
+				"xmlFile": "planets/Text/Station1.xml",
 				"type": "scroll",
-				"seed": 10,
-				"arcInfo":[
-					{"position": {"x": 0, "y": 0}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": -3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 3, "y": 2.75}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": -3, "y": 2.75}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 0, "y":  1}, "zRotation": 90, "type": "adult"},
-					{"position": {"x": 0, "y": 2}, "zRotation": 360, "type": "adult"}
-				]
+				"seed": 134
 			},
 			{
 				"position": {"x": 108.6282, "y": -2.3969, "z": -8.7019},
 				"rotation": {"x": 355.2496, "y": 125.5649, "z": 41.4835},
-				"xmlFile": "planets/Text/TestWall2.xml",
+				"xmlFile": "planets/Text/Station75.xml",
 				"type": "scroll",
-				"seed": 10,
-				"arcInfo":[
-					{"position": {"x": 0, "y": 0}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": -3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 3, "y": 2.75}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": -3, "y": 2.75}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 0, "y":  1}, "zRotation": 90, "type": "adult"},
-					{"position": {"x": 0, "y": 2}, "zRotation": 360, "type": "adult"}
-				]
+				"seed": 26
 			},
 			{
 				"position": {"x": 107.1984, "y": -4.3821, "z": -10.6545},
 				"rotation": {"x": 0, "y": 119.6928, "z": 292.2367},
 				"normal": {"x": -0.810218, "y": 5.960464E-07, "z": 0.5861288}, 
-				"xmlFile": "planets/Text/TestWall2.xml",
+				"xmlFile": "planets/Text/Station192.xml",
 				"type": "scroll",
-				"seed": 10,
-				"arcInfo":[
-					{"position": {"x": 0, "y": 0}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": -3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 3, "y": 2.75}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": -3, "y": 2.75}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 0, "y":  1}, "zRotation": 90, "type": "adult"},
-					{"position": {"x": 0, "y": 2}, "zRotation": 360, "type": "adult"}
-				]
+				"seed": 73
 			}
 		]
 	},

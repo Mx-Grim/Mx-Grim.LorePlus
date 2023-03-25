@@ -59,16 +59,7 @@
 				"rotation": {"x": 46.4764, "y": 182.9881, "z": 54.4722},
 				"xmlFile": "planets/Text/MiningSite.xml",
 				"type": "scroll",
-				"seed": 1,
-				"arcInfo":[
-					{"keepAutoPlacement": true, "type": "adult"},
-					{"keepAutoPlacement": true, "type": "adult"},
-					{"keepAutoPlacement": true, "type": "adult"},
-					{"keepAutoPlacement": true, "type": "adult"},
-					{"keepAutoPlacement": true, "type": "adult"},
-					{"keepAutoPlacement": true, "type": "adult"},
-					{"keepAutoPlacement": true, "type": "adult"}
-				]
+				"seed": 1
 			},
 			{
 				"position": {"x": 16.307, "y": -46.41638, "z": 184.4204},

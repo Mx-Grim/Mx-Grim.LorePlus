@@ -1,0 +1,56 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+	<TextBlock>
+		<ID>1</ID>
+		<Text>PYE: Station Log 75!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>2</ID>
+		<ParentID>1</ParentID>
+		<Text>PYE: The launch was a success! I'm writing this from orbit!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>3</ID>
+		<ParentID>2</ParentID>
+		<Text>PYE: Naturally, I'm thrilled, whereas Idaea hasn't even boarded to see what it looks like.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>4</ID>
+		<ParentID>3</ParentID>
+		<Text>PYE: I'll take this chance to pretty the place up a little. It'll be easier without him moping around and getting in the way.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>5</ID>
+		<ParentID>4</ParentID>
+		<Text>IDAEA: I have arrived now. And I object to making this place "pretty". This is our most wretched construction, and the design is hostile to match.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>6</ID>
+		<ParentID>5</ParentID>
+		<Text>PYE: You <![CDATA[<i>are</i>]]> aware that you can't stop me from making changes forever? I need a reading nook!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>7</ID>
+		<ParentID>6</ParentID>
+		<Text>IDAEA: I suppose you are not incorrect. You may take the upper level.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>8</ID>
+		<ParentID>7</ParentID>
+		<Text>PYE: I <![CDATA[<i>may</i>]]> take the upper level? This is <![CDATA[<i>our</i>]]> station, it isn't yours to divy out.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>9</ID>
+		<ParentID>8</ParentID>
+		<Text>IDAEA: So you do not want the upper level?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>10</ID>
+		<ParentID>9</ParentID>
+		<Text>PYE: I didn't say that.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>11</ID>
+		<ParentID>3</ParentID>
+		<Text>IDAEA: I have a son, Pye. I cannot dedicate every waking hour of my life to this nightmare.</Text>
+	</TextBlock>
+</NomaiObject>

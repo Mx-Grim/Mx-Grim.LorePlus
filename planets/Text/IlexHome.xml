@@ -16,7 +16,7 @@
 	<TextBlock>
 		<ID>4</ID>
 		<ParentID>3</ParentID>
-		<Text>ILEX: But you were watching the whole time, weren't you afraid I was doing it wrong?</Text>
+		<Text>ILEX: But you were hovering over my shoulder the whole time, weren't you afraid I was doing it wrong?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>5</ID>
@@ -141,7 +141,7 @@
 	<TextBlock>
 		<ID>29</ID>
 		<ParentID>28</ParentID>
-		<Text>ILEX: Daaaaaaad! I'm not that little...</Text>
+		<Text>ILEX: Daaaaaaad! I'm the tallest of all my friends, I'm not <![CDATA[<i>that</i>]]> little...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>30</ID>
