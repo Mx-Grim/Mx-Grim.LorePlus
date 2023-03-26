@@ -18,14 +18,14 @@
 				"rotation": {"x": 347.0358, "y": 89.3159, "z": 348.309},
 				"xmlFile": "planets/Text/Station1.xml",
 				"type": "scroll",
-				"seed": 134
+				"seed": 5
 			},
 			{
 				"position": {"x": 108.6282, "y": -2.3969, "z": -8.7019},
 				"rotation": {"x": 355.2496, "y": 125.5649, "z": 41.4835},
 				"xmlFile": "planets/Text/Station75.xml",
 				"type": "scroll",
-				"seed": 26
+				"seed": 8
 			},
 			{
 				"position": {"x": 107.1984, "y": -4.3821, "z": -10.6545},
@@ -33,7 +33,7 @@
 				"normal": {"x": -0.810218, "y": 5.960464E-07, "z": 0.5861288}, 
 				"xmlFile": "planets/Text/Station192.xml",
 				"type": "scroll",
-				"seed": 73
+				"seed": 45
 			}
 		]
 	},

@@ -1,56 +1,46 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
 	<TextBlock>
 		<ID>1</ID>
-		<Text>IDAEA: Station Log 1.</Text>
+		<Text>IDAEA: Station Log 1. Despite my protests, I have been called to service in building this station. Since losing Fuchsia, I am now the most experienced solar engineer the clan has.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>IDAEA: Despite my protests, I have been called to service in building this station. Since losing Fuchsia, I am now the most experienced solar engineer the clan has.</Text>
+		<Text>IDAEA: I'll do my part in her stead. The clan needs my expertise, so I shall have to swallow my revulsion. As for progress, the blueprints are already largely complete. Pye has jumped into the project with concerning enthusiasm.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text>IDAEA: I will do my part in her stead. The clan needs my expertise, so I shall have to swallow my revulsion.</Text>
+		<Text>IDAEA: The plan, as it stands now, is to construct the warp receiver, main chamber, and emitters, then launch the station into a low solar orbit while the mass is still minimal.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
 		<ParentID>3</ParentID>
-		<Text>IDAEA: As for progress, the blueprints are already largely complete. Pye has jumped into the project with concerning enthusiasm.</Text>
+		<Text>IDAEA: Following that, we can start this dreadful work in earnest. Materials will be brought in by warp, and we can assemble the finer machinery from the inside.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text>IDAEA: The plan, as it stands now, is to construct the warp receiver, main chamber, and emitters, then launch the station into a low solar orbit while the mass is minimal.</Text>
+		<Text>IDAEA: We lay the first scaffolds tomorrow. For now, I think an early night is in order.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>6</ID>
-		<ParentID>5</ParentID>
-		<Text>IDAEA: Following that, we can start this dreadful work in earnest. Materials will be brought in by warp, and we can assemble the finer machinery from the inside.</Text>
+		<ParentID>2</ParentID>
+		<Text>PYE: I find your <![CDATA[<i>lack</i>]]> of enthusiasm concerning!</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>7</ID>
 		<ParentID>6</ParentID>
-		<Text>IDAEA: We lay the first scaffolds tomorrow. For now, I think an early night is in order.</Text>
+		<Text>IDAEA: I find your interjections childish.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>8</ID>
-		<ParentID>4</ParentID>
-		<Text>PYE: I find your <![CDATA[<i>lack</i>]]> of enthusiasm concerning!</Text>
+		<ParentID>5</ParentID>
+		<Text>PYE: An early night? Don't you ever get out? Hypothesis: Exposure to more solar activity will be good for you.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>9</ID>
 		<ParentID>8</ParentID>
-		<Text>IDAEA: I find your interjections childish.</Text>
-	</TextBlock>
-	<TextBlock>
-		<ID>10</ID>
-		<ParentID>7</ParentID>
-		<Text>PYE: That's just tragic, don't you ever get out? Hypothesis: Exposure to more solar activity will be good for you.</Text>
-	</TextBlock>
-	<TextBlock>
-		<ID>11</ID>
-		<ParentID>10</ParentID>
 		<Text>IDAEA: Kindly take your hypothesis and place it where there is <![CDATA[<i>no</i>]]> solar activity.</Text>
 	</TextBlock>
 </NomaiObject>

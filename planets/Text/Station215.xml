@@ -26,7 +26,7 @@
 	<TextBlock>
 		<ID>6</ID>
 		<ParentID>5</ParentID>
-		<Text>IDAEA: Blinded by the prospect of discovery. Blinded by the promise of catharsis.  Blissfully ignorant of ethics and responsibility.</Text>
+		<Text>IDAEA: Blinded by the prospect of discovery. Blinded by the promise of catharsis. Blissfully ignorant of ethics and responsibility.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>7</ID>
@@ -41,7 +41,7 @@
 	<TextBlock>
 		<ID>9</ID>
 		<ParentID>8</ParentID>
-		<Text>IDAEA: The very light that illuminates our way will be marred by the flicker of its shadow.</Text>
+		<Text>IDAEA: The very light that illuminates us will be marred by the flicker of its shadow.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>10</ID>
@@ -136,6 +136,6 @@
 	<TextBlock>
 		<ID>28</ID>
 		<ParentID>27</ParentID>
-		<Text>IDAEA: And I'll spend the night with the two people I love most in the world.</Text>
+		<Text>IDAEA: Enough of this despair. I'll spend this time with the two people I love most in the world.</Text>
 	</TextBlock>
 </NomaiObject>

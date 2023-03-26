@@ -41,18 +41,9 @@
 			},
 			{
 				"position": {"x": 15.28485, "y": -43.67052, "z": 185.177}, 
-				"xmlFile": "planets/Text/TestWall2.xml",
+				"xmlFile": "planets/Text/Station192.xml",
 				"type": "scroll",
-				"seed": 10,
-				"arcInfo":[
-					{"position": {"x": 0, "y": 0}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": -3, "y":  -1.1}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 3, "y": 2.75}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": -3, "y": 2.75}, "zRotation": 0, "type": "adult"},
-					{"position": {"x": 0, "y":  1}, "zRotation": 90, "type": "adult"},
-					{"position": {"x": 0, "y": 2}, "zRotation": 360, "type": "adult"}
-				]
+				"seed": 45
 			},
 			{
 				"position": {"x": -49.425, "y": 140.6883, "z": -158.1661}, 
@@ -64,7 +55,7 @@
 			{
 				"position": {"x": 16.307, "y": -46.41638, "z": 184.4204},
 				"rotation": {"x": 342.2187, "y": 90.28124, "z": 104.6913},
-				"xmlFile": "planets/Text/Idaea215.xml",
+				"xmlFile": "planets/Text/Station215.xml",
 				"type": "recorder"
 			}
 		]
